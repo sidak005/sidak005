@@ -5,7 +5,5 @@ I'm a computer science student at UNSW, passionate about coding and always eager
 
 - 🌱 Currently learning and building projects to sharpen my skills.
 - 📫 Reach me at sidaks472@gmail.com
-- ⚡ Fun fact: I can talk for hours about football tactics!
-
 
 Thanks for stopping by! 😄
