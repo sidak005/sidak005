@@ -1,9 +1,6 @@
 ## Hi there 👋
 
 I'm Sidak!  
-I'm a computer science student at UNSW, passionate about coding and always eager to learn something new every day. Aside from coding, I enjoy music and am a big football fan! ⚽🎶
+I'm a computer science student at UNSW, passionate about coding and tryna learn something everyday. Do hit me up if you like ML like me.
 
-- 🌱 Currently learning and building projects to sharpen my skills.
-- 📫 Reach me at sidaks472@gmail.com
-
-Thanks for stopping by! 😄
+- Reach me at sidaks472@gmail.com
